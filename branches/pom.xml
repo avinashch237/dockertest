@@ -8,4 +8,11 @@
       <artifactId>my-app</artifactId>  
       <version>1</version>  
       
-    </project>  
+    
+      <packaging>war</packaging>
+   
+    </project>
+	
+	
+	
+	
